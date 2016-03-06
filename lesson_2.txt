@@ -1,0 +1,1 @@
+Display init a new empty repository.

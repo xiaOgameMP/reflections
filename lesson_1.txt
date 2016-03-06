@@ -1,0 +1,5 @@
+	By view the diff bewteen two verison could we easily
+find out those lines that have been modified or deleted.
+	We could understand where have been changed and why.
+	Manual Commits could be seperated into some logical parts.
+
