@@ -1,1 +1,3 @@
 Display init a new empty repository.
+	Only the files in the working directory that are added to the staging
+area will be commited to repository.
